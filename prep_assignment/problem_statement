@@ -1,0 +1,9 @@
+Install one of these on your computer, configure and setup a website: Wordpress, Drupal or Moodle.
+
+Write a HTML page by hand which looks like the homepage of this website:  https://www.freecodecamp.org/ .
+
+Demonstrate use of CSS on any HTML page. Include elements to handle: page resize, changing colour of clicked links
+
+Install mysql-server on your laptop and run AQL queries to do the following: create a database, create a table, insert rows in a table, fetch rows from a table, delete a row, update a row.
+
+On any HTML page (may the the one you wrote for freecodecamp.org type), include a link for Login. Write a login page having login/password fields. Write Javascript code to validate the login-id and password for the following:  both are properly formed and at least 6 bytes long;  the password contains at least one special case, one capital and one numeric characters; convert the password into it's MD5 hash. 
